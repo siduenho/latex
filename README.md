@@ -1,2 +1,2 @@
 # latex
-Docker image: Ubuntu + TeX Live + arara
+Docker image: Ubuntu Xenial + TeX Live 2015 + arara
