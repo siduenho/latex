@@ -1,2 +1,2 @@
 # latex
-Docker image: Ubuntu (rolling release) + TeX Live + arara support
+Docker image: Ubuntu (zesty) + TeX Live 2016 + arara support
