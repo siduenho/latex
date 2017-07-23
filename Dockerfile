@@ -5,4 +5,5 @@ RUN apt-get update && apt-get install -y \
     xindy \
     openjdk-8-jre \
     cm-super \
+    git \           
 && rm -rf /var/lib/apt/lists/*
