@@ -7,4 +7,5 @@ RUN apt-get update && apt-get install -y \
     cm-super \
     git \
     librsvg2-bin \
+    graphviz \
 && rm -rf /var/lib/apt/lists/*
